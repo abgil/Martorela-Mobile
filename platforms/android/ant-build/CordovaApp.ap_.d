@@ -141,6 +141,7 @@ C:\Users\abermejo\workspace\android\Martorela-Mobile\platforms\android\assets\ww
 C:\Users\abermejo\workspace\android\Martorela-Mobile\platforms\android\assets\www\images\diademas\Diadema_Rosas.jpg \
 C:\Users\abermejo\workspace\android\Martorela-Mobile\platforms\android\assets\www\images\diademas\Diadema_Semillas.jpg \
 C:\Users\abermejo\workspace\android\Martorela-Mobile\platforms\android\assets\www\images\diademas\Diadema_Zapatitos.jpg \
+C:\Users\abermejo\workspace\android\Martorela-Mobile\platforms\android\assets\www\images\diademas\IMG_9705.jpg \
 C:\Users\abermejo\workspace\android\Martorela-Mobile\platforms\android\assets\www\images\diademas\Lazo_Marinero.jpg \
 C:\Users\abermejo\workspace\android\Martorela-Mobile\platforms\android\assets\www\images\diademas\Lazo_Ranita.jpg \
 C:\Users\abermejo\workspace\android\Martorela-Mobile\platforms\android\assets\www\images\diademas\Martorela09202.jpg \
@@ -159,6 +160,7 @@ C:\Users\abermejo\workspace\android\Martorela-Mobile\platforms\android\assets\ww
 C:\Users\abermejo\workspace\android\Martorela-Mobile\platforms\android\assets\www\images\diademas\thumbs\Diadema_Rosas.jpg \
 C:\Users\abermejo\workspace\android\Martorela-Mobile\platforms\android\assets\www\images\diademas\thumbs\Diadema_Semillas.jpg \
 C:\Users\abermejo\workspace\android\Martorela-Mobile\platforms\android\assets\www\images\diademas\thumbs\Diadema_Zapatitos.jpg \
+C:\Users\abermejo\workspace\android\Martorela-Mobile\platforms\android\assets\www\images\diademas\thumbs\IMG_9705.jpg \
 C:\Users\abermejo\workspace\android\Martorela-Mobile\platforms\android\assets\www\images\diademas\thumbs\Lazo_Marinero.jpg \
 C:\Users\abermejo\workspace\android\Martorela-Mobile\platforms\android\assets\www\images\diademas\thumbs\Lazo_Ranita.jpg \
 C:\Users\abermejo\workspace\android\Martorela-Mobile\platforms\android\assets\www\images\diademas\thumbs\Martorela09202.jpg \
@@ -173,6 +175,7 @@ C:\Users\abermejo\workspace\android\Martorela-Mobile\platforms\android\assets\ww
 C:\Users\abermejo\workspace\android\Martorela-Mobile\platforms\android\assets\www\images\home\Diadema_Nido.png \
 C:\Users\abermejo\workspace\android\Martorela-Mobile\platforms\android\assets\www\images\home\Diadena_Piruleta.png \
 C:\Users\abermejo\workspace\android\Martorela-Mobile\platforms\android\assets\www\images\news\Facebook-logo.png \
+C:\Users\abermejo\workspace\android\Martorela-Mobile\platforms\android\assets\www\images\news\Felicitacion_Navidad_2015.jpg \
 C:\Users\abermejo\workspace\android\Martorela-Mobile\platforms\android\assets\www\images\news\Halloween_001.jpg \
 C:\Users\abermejo\workspace\android\Martorela-Mobile\platforms\android\assets\www\images\news\Halloween_006.jpg \
 C:\Users\abermejo\workspace\android\Martorela-Mobile\platforms\android\assets\www\images\news\Showroom.jpg \
