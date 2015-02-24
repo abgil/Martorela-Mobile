@@ -61,6 +61,8 @@ C:\Users\abermejo\workspace\android\Martorela-Mobile\platforms\android\assets\ww
 C:\Users\abermejo\workspace\android\Martorela-Mobile\platforms\android\assets\www\images\ceremonias\1-2012347.jpg \
 C:\Users\abermejo\workspace\android\Martorela-Mobile\platforms\android\assets\www\images\ceremonias\1-2012_355.jpg \
 C:\Users\abermejo\workspace\android\Martorela-Mobile\platforms\android\assets\www\images\ceremonias\Algodon_de_Azucar_con_semillas.jpg \
+C:\Users\abermejo\workspace\android\Martorela-Mobile\platforms\android\assets\www\images\ceremonias\Camelia.jpg \
+C:\Users\abermejo\workspace\android\Martorela-Mobile\platforms\android\assets\www\images\ceremonias\Charol.jpg \
 C:\Users\abermejo\workspace\android\Martorela-Mobile\platforms\android\assets\www\images\ceremonias\Cinta_Martorela.jpg \
 C:\Users\abermejo\workspace\android\Martorela-Mobile\platforms\android\assets\www\images\ceremonias\Cinta_Piruleta.jpg \
 C:\Users\abermejo\workspace\android\Martorela-Mobile\platforms\android\assets\www\images\ceremonias\Clic_Zapato_Martorela.jpg \
@@ -71,6 +73,8 @@ C:\Users\abermejo\workspace\android\Martorela-Mobile\platforms\android\assets\ww
 C:\Users\abermejo\workspace\android\Martorela-Mobile\platforms\android\assets\www\images\ceremonias\comunion_017.jpg \
 C:\Users\abermejo\workspace\android\Martorela-Mobile\platforms\android\assets\www\images\ceremonias\Corona_Angelito.jpg \
 C:\Users\abermejo\workspace\android\Martorela-Mobile\platforms\android\assets\www\images\ceremonias\Corona_de_Arras.jpg \
+C:\Users\abermejo\workspace\android\Martorela-Mobile\platforms\android\assets\www\images\ceremonias\Corona_Ninfa.jpg \
+C:\Users\abermejo\workspace\android\Martorela-Mobile\platforms\android\assets\www\images\ceremonias\Dalia1.jpg \
 C:\Users\abermejo\workspace\android\Martorela-Mobile\platforms\android\assets\www\images\ceremonias\Diadema_Simay.jpg \
 C:\Users\abermejo\workspace\android\Martorela-Mobile\platforms\android\assets\www\images\ceremonias\Diadema_Sinaran.jpg \
 C:\Users\abermejo\workspace\android\Martorela-Mobile\platforms\android\assets\www\images\ceremonias\Martorela_3128.jpg \
@@ -79,6 +83,8 @@ C:\Users\abermejo\workspace\android\Martorela-Mobile\platforms\android\assets\ww
 C:\Users\abermejo\workspace\android\Martorela-Mobile\platforms\android\assets\www\images\ceremonias\thumbs\1-2012347.jpg \
 C:\Users\abermejo\workspace\android\Martorela-Mobile\platforms\android\assets\www\images\ceremonias\thumbs\1-2012_355.jpg \
 C:\Users\abermejo\workspace\android\Martorela-Mobile\platforms\android\assets\www\images\ceremonias\thumbs\Algodon_de_Azucar_con_semillas.jpg \
+C:\Users\abermejo\workspace\android\Martorela-Mobile\platforms\android\assets\www\images\ceremonias\thumbs\Camelia.jpg \
+C:\Users\abermejo\workspace\android\Martorela-Mobile\platforms\android\assets\www\images\ceremonias\thumbs\Charol.jpg \
 C:\Users\abermejo\workspace\android\Martorela-Mobile\platforms\android\assets\www\images\ceremonias\thumbs\Cinta_Martorela.jpg \
 C:\Users\abermejo\workspace\android\Martorela-Mobile\platforms\android\assets\www\images\ceremonias\thumbs\Cinta_Piruleta.jpg \
 C:\Users\abermejo\workspace\android\Martorela-Mobile\platforms\android\assets\www\images\ceremonias\thumbs\Clic_Zapato_Martorela.jpg \
@@ -89,6 +95,8 @@ C:\Users\abermejo\workspace\android\Martorela-Mobile\platforms\android\assets\ww
 C:\Users\abermejo\workspace\android\Martorela-Mobile\platforms\android\assets\www\images\ceremonias\thumbs\comunion_017.jpg \
 C:\Users\abermejo\workspace\android\Martorela-Mobile\platforms\android\assets\www\images\ceremonias\thumbs\Corona_Angelito.jpg \
 C:\Users\abermejo\workspace\android\Martorela-Mobile\platforms\android\assets\www\images\ceremonias\thumbs\Corona_de_Arras.jpg \
+C:\Users\abermejo\workspace\android\Martorela-Mobile\platforms\android\assets\www\images\ceremonias\thumbs\Corona_Ninfa.jpg \
+C:\Users\abermejo\workspace\android\Martorela-Mobile\platforms\android\assets\www\images\ceremonias\thumbs\Dalia1.jpg \
 C:\Users\abermejo\workspace\android\Martorela-Mobile\platforms\android\assets\www\images\ceremonias\thumbs\Diadema_Simay.jpg \
 C:\Users\abermejo\workspace\android\Martorela-Mobile\platforms\android\assets\www\images\ceremonias\thumbs\Diadema_Sinaran.jpg \
 C:\Users\abermejo\workspace\android\Martorela-Mobile\platforms\android\assets\www\images\ceremonias\thumbs\Martorela_3128.jpg \
@@ -179,6 +187,7 @@ C:\Users\abermejo\workspace\android\Martorela-Mobile\platforms\android\assets\ww
 C:\Users\abermejo\workspace\android\Martorela-Mobile\platforms\android\assets\www\images\news\Halloween_001.jpg \
 C:\Users\abermejo\workspace\android\Martorela-Mobile\platforms\android\assets\www\images\news\Halloween_006.jpg \
 C:\Users\abermejo\workspace\android\Martorela-Mobile\platforms\android\assets\www\images\news\Showroom.jpg \
+C:\Users\abermejo\workspace\android\Martorela-Mobile\platforms\android\assets\www\images\news\Showroom_Invitacion.jpg \
 C:\Users\abermejo\workspace\android\Martorela-Mobile\platforms\android\assets\www\js\gallery.js \
 C:\Users\abermejo\workspace\android\Martorela-Mobile\platforms\android\assets\www\js\index.js \
 C:\Users\abermejo\workspace\android\Martorela-Mobile\platforms\android\assets\www\js\jquery.easing.1.3.js \
