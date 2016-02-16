@@ -18,7 +18,7 @@
         }
     },
     "installed_plugins": {
-        "org.apache.cordova.splashscreen": {
+        "cordova-plugin-splashscreen": {
             "PACKAGE_NAME": "es.martorela.Martorela"
         }
     },

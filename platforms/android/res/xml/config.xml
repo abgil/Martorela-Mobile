@@ -1,13 +1,16 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="es.martorela.Martorela" version="1.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="es.martorela.Martorela" version="1.0.5" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <preference name="loglevel" value="DEBUG" />
     <feature name="SplashScreen">
         <param name="android-package" value="org.apache.cordova.splashscreen.SplashScreen" />
+        <param name="onload" value="true" />
     </feature>
     <name>Martorela</name>
     <preference name="SplashScreen" value="screen" />
-    <preference name="SplashScreenDelay" value="5000" />
-    <preference name="Fullscreen" value="true" />
+    <preference name="SplashScreenDelay" value="10000" />
+    <preference name="screenScreen" value="screen" />
+    <preference name="screenScreenDelay" value="5000" />
+    <preference name="Fullscreen" value="false" />
     <preference name="android-windowSoftInputMode" value="stateVisible|adjustResize" />
     <description>
         Martorela
