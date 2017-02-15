@@ -11,6 +11,10 @@
                         {
                             "xml": "<feature name=\"SplashScreen\"><param name=\"android-package\" value=\"org.apache.cordova.splashscreen.SplashScreen\" /><param name=\"onload\" value=\"true\" /></feature>",
                             "count": 1
+                        },
+                        {
+                            "xml": "<feature name=\"InAppBrowser\"><param name=\"android-package\" value=\"org.apache.cordova.inappbrowser.InAppBrowser\" /></feature>",
+                            "count": 1
                         }
                     ]
                 }
@@ -19,6 +23,9 @@
     },
     "installed_plugins": {
         "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "es.martorela.Martorela"
+        },
+        "cordova-plugin-inappbrowser": {
             "PACKAGE_NAME": "es.martorela.Martorela"
         }
     },
@@ -30,6 +37,18 @@
             "clobbers": [
                 "navigator.splashscreen"
             ]
+        },
+        {
+            "id": "cordova-plugin-inappbrowser.inappbrowser",
+            "file": "plugins/cordova-plugin-inappbrowser/www/inappbrowser.js",
+            "pluginId": "cordova-plugin-inappbrowser",
+            "clobbers": [
+                "cordova.InAppBrowser.open",
+                "window.open"
+            ]
         }
-    ]
+    ],
+    "plugin_metadata": {
+        "cordova-plugin-inappbrowser": "1.6.1"
+    }
 }

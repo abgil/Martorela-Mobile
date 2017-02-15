@@ -1,17 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="es.martorela.Martorela" version="1.0.5" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <preference name="loglevel" value="DEBUG" />
+<widget id="es.martorela.Martorela" version="10.0.60" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <feature name="SplashScreen">
         <param name="android-package" value="org.apache.cordova.splashscreen.SplashScreen" />
         <param name="onload" value="true" />
     </feature>
+    <feature name="InAppBrowser">
+        <param name="android-package" value="org.apache.cordova.inappbrowser.InAppBrowser" />
+    </feature>
     <name>Martorela</name>
-    <preference name="SplashScreen" value="screen" />
-    <preference name="SplashScreenDelay" value="10000" />
-    <preference name="screenScreen" value="screen" />
-    <preference name="screenScreenDelay" value="5000" />
-    <preference name="Fullscreen" value="false" />
-    <preference name="android-windowSoftInputMode" value="stateVisible|adjustResize" />
     <description>
         Martorela
     </description>
@@ -20,4 +16,11 @@
     </author>
     <content src="index.html" />
     <access origin="*" />
+    <preference name="loglevel" value="DEBUG" />
+    <preference name="SplashScreen" value="screen" />
+    <preference name="SplashScreenDelay" value="10000" />
+    <preference name="screenScreen" value="screen" />
+    <preference name="screenScreenDelay" value="5000" />
+    <preference name="Fullscreen" value="false" />
+    <preference name="android-windowSoftInputMode" value="stateVisible|adjustResize" />
 </widget>
